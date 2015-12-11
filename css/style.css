@@ -13,3 +13,7 @@
 .data {
 	padding-top: 50px;
 }
+
+.table {
+	display: none;
+}
