@@ -43,7 +43,6 @@ $(function() {
             $('.list').slideUp('fast');
         },
         close: function( event, ui ) {
-            $('.list').slideUp();
             $('.box').css('border-color', 'rgba(0,0,0,0.2)');
         }
     });
@@ -75,6 +74,10 @@ $(function() {
         }
     });
     
+    $('.autocomplete').focusout(function() {
+        $('.list').slideUp('fast');
+    });
+
     $('.list').append($('.ui-autocomplete'));
 
 })
