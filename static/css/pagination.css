@@ -1,7 +1,14 @@
 .form-group {
-	margin-bottom: 0px;
+	margin: 0px;
+	padding: 0px;
 }
 
 ::selection {
-  background: #2980b9;
+  	background: #2980b9;
+}
+
+input[class$="-search-text"] {
+	border-top-left-radius: 20px !important;
+	border-bottom-left-radius: 20px !important;
+	margin-left: 3%;
 }

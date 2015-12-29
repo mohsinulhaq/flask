@@ -81,6 +81,7 @@ function paginate(array, itemsPerPage) {
     var counter = 0;
     
     function render(from) {
+    	$('.all-row-check').prop('checked', false);
         $('tbody').html('');
         $.each(array.slice(counter, counter + itemsPerPage), function(index) {
             $('tbody').append($row.clone());
