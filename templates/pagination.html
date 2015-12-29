@@ -1,0 +1,102 @@
+{% include 'header.html' %}
+<div class="container text-center content">
+	<div class="row">
+		<div class="col-xs-12">
+			<table class="table table-striped">
+				<thead>
+					<tr class="title">
+						<td><input type="checkbox" class='all-row-check'></td>
+						<td>Name</td>
+						<td>Roll No</td>
+						<td>Class</td>
+						<td>Marks</td>
+					</tr>
+					<tr>
+						<td></td>
+							<td>
+								<div class="col-xs-12 form-group">
+									<div class="input-group">
+										<div class="input-group-btn">
+											<input type="checkbox" class="name-search-enable">
+										</div>
+										<input type="text" class="form-control name-search-text" placeholder="Search by Name">
+										<div class="input-group-btn">
+											<button class="btn btn-success name-search" type="submit">
+											<i class="glyphicon glyphicon-search"></i>
+											</button>
+										</div>
+									</div>
+								</div>
+							</td>
+							<td>
+								<div class="col-xs-12 form-group">
+									<div class="input-group">
+										<div class="input-group-btn">
+											<input type="checkbox" class="roll-search-enable">
+										</div>
+										<input type="text" class="form-control roll-search-text" placeholder="Search by Roll No">
+										<div class="input-group-btn">
+											<button class="btn btn-success roll-search" type="submit">
+											<i class="glyphicon glyphicon-search"></i>
+											</button>
+										</div>
+									</div>
+								</div>
+							</td>
+							<td>
+								<div class="col-xs-12 form-group">
+									<div class="input-group">
+										<div class="input-group-btn">
+											<input type="checkbox" class="class-search-enable">
+										</div>
+										<input type="text" class="form-control class-search-text" placeholder="Search by Class">
+										<div class="input-group-btn">
+											<button class="btn btn-success class-search" type="submit">
+											<i class="glyphicon glyphicon-search"></i>
+											</button>
+										</div>
+									</div>
+								</div>
+							</td>
+							<td>
+								<div class="col-xs-12 form-group">
+									<div class="input-group">
+										<div class="input-group-btn">
+											<input type="checkbox" class="marks-search-enable">
+										</div>
+										<input type="text" class="form-control marks-search-text" placeholder="Search by Marks">
+										<div class="input-group-btn">
+											<button class="btn btn-success marks-search" type="submit">
+											<i class="glyphicon glyphicon-search"></i>
+											</button>
+										</div>
+									</div>
+								</div>
+							</td>
+					</tr>
+				</thead>
+				<tbody>
+					<tr class='data-row'>
+						<td><input type="checkbox" class='row-check'></td>
+						<td class="name"></td>
+						<td class="rollno"></td>
+						<td class="class"></td>
+						<td class="marks"></td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-xs-12">
+			<button class="btn btn-success start"><i class="glyphicon glyphicon glyphicon-backward arrow"></i></button>
+			<button class="btn btn-success prev"><i class="glyphicon glyphicon-chevron-left arrow">Prev</i></button>
+			<span class='start-counter'></span>
+			<span>of</span>
+			<span class='end-counter'></span>
+			<button class="btn btn-success next">Next<i class="glyphicon glyphicon-chevron-right arrow"></i></button>
+			<button class="btn btn-success end"><i class="glyphicon glyphicon glyphicon-forward arrow"></i></button>
+		</div>
+	</div>
+</div>
+{% include 'footer.html' %}

@@ -1,0 +1,7 @@
+.form-group {
+	margin-bottom: 0px;
+}
+
+::selection {
+  background: #2980b9;
+}

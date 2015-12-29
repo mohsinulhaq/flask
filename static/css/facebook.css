@@ -1,0 +1,21 @@
+.profile-pic {
+	border-radius: 50%;
+	width: 200px;
+    height: 200px
+}
+
+.photo {
+	border-radius: 50%;
+}
+
+tr>td:nth-child(2) {
+	float: right;
+}
+
+.row:not(.not-styled) {
+	margin: 2%;
+}
+
+.btn {
+	width: 20%;
+}

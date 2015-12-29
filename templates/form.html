@@ -1,0 +1,22 @@
+{% include 'header.html' %}
+<div class="container">
+	<div class="row">
+		<div class="col-md-12">
+			<form method="POST">
+				{{ form.csrf_token }}
+				<div>
+					{{ form.username.label }}
+					{{ form.username() }}
+				</div>
+				<div>
+					{{ form.password.label }}
+					{{ form.password() }}
+				</div>
+				<div>
+					{{ form.submit() }}
+				</div>
+			</form>
+		</div>
+	</div>
+</div>
+{% include 'footer.html' %}

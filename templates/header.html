@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>{{title}}</title>
+		<link rel="icon" href="{{ url_for('static', filename='images/favicon.ico') }}">
+		<link rel="stylesheet" href="http://bootswatch.com/united/bootstrap.min.css">
+		<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+		<link rel="stylesheet" href="{{ url_for('static', filename='css/' ~ style ~ '.css') }}">
+	</head>
+	<body>
+		<nav class="navbar navbar-default" role="navigation">
+			<div class="container-fluid">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					</button>
+					<a class="navbar-brand" href="{{ url_for('index') }}">Mohsin Ul Haq</a>
+				</div>
+				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+					<ul class="nav navbar-nav navbar-right">
+						<li class="dropdown">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown">My Works <b class="caret"></b></a>
+							<ul class="dropdown-menu">
+								<li><a href="{{ url_for('autocomplete') }}">Autocomplete</a></li>
+								<li><a href="{{ url_for('radio') }}">Custom Radio Button</a></li>
+								<li><a href="{{ url_for('regex') }}">Regex Validation</a></li>
+								<li><a href="{{ url_for('facebook') }}">Facebook</a></li>
+								<li><a href="{{ url_for('pagination') }}">Pagination</a></li>
+							</ul>
+						</li>
+						<li><a href="{{ url_for('about') }}">About Me</a></li>
+					</ul>
+				</div>
+			</div>
+		</nav>

@@ -1,0 +1,47 @@
+{% include 'header.html' %}
+<div class="container text-center">
+	<div class="row">
+		<div class="col-md-12">
+			<img class = "cat" src="{{url_for('static', filename='images/inspectocat.jpg')}}" alt="inspectocat">
+		</div>
+		<h3>Github Search</h3>
+		<div class="col-md-12">
+			<form class="form form-inline">
+				<div class="input-group">
+					<input type="text" class="search-box form-control" autofocus>
+					<span class="input-group-btn">
+						<button class="btn btn-success" type="submit">
+						<span class="glyphicon glyphicon-search"></span>
+						</button>
+					</span>
+				</div>
+			</form>
+		</div>
+	</div>
+	<div class="row overlay">
+		<div class="col-md-3"><img class="image" src=""></div>
+		<div class="col-md-9 info">
+			<table class="table table-hover">
+				<thead>
+					<tr>
+						<th>Name</th>
+						<th>Profile Link</th>
+						<th>Github ID</th>
+						<th>Followers</th>
+						<th>Public Repositories</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td class = "name"></td>
+						<td><a class = "profile" href="" target="_blank"></a></td>
+						<td class = "id"></td>
+						<td class = "followers"></td>
+						<td class = "repos"></td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+	</div>
+</div>
+{% include 'footer.html' %}
