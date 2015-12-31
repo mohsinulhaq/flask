@@ -12,3 +12,7 @@ function eraseCookies() {
     	.toUTCString() + ";path=/");
     });
 }
+
+$(function() {
+	$('.container:first').addClass('content')
+})

@@ -6,3 +6,7 @@
 	padding:1%;
 	color: white;
 }
+
+::selection {
+  	background: #2980b9;
+}
