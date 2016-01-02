@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb8f4881-0afb-492f-8102-d4763f8bebca" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip-1.5.4.dist-info/DESCRIPTION.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip-1.5.4.dist-info/METADATA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip-1.5.4.dist-info/RECORD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip-1.5.4.dist-info/WHEEL" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip-1.5.4.dist-info/entry_points.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip-1.5.4.dist-info/metadata.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip-1.5.4.dist-info/top_level.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/backwardcompat/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/commands/bundle.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/commands/unzip.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/commands/zip.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/log.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/req.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/runner.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/util.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pkg_resources.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools-3.3.dist-info/DESCRIPTION.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools-3.3.dist-info/METADATA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools-3.3.dist-info/RECORD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools-3.3.dist-info/WHEEL" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools-3.3.dist-info/dependency_links.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools-3.3.dist-info/entry_points.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools-3.3.dist-info/metadata.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools-3.3.dist-info/top_level.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools-3.3.dist-info/zip-safe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/script template (dev).py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/script template.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/svn_utils.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/tests/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/tests/doctest.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/tests/environment.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/tests/py26compat.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/tests/script-with-bom.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/tests/server.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/tests/test_bdist_egg.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/tests/test_build_ext.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/tests/test_develop.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/tests/test_dist_info.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/tests/test_easy_install.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/tests/test_egg_info.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/tests/test_find_packages.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/tests/test_markerlib.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/tests/test_packageindex.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/tests/test_resources.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/tests/test_sandbox.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/tests/test_sdist.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/tests/test_svn.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/tests/test_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/tests/test_upload_docs.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.py" afterPath="$PROJECT_DIR$/app.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/footer.html" afterPath="$PROJECT_DIR$/templates/footer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/header.html" afterPath="$PROJECT_DIR$/templates/header.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/bin/easy_install" afterPath="$PROJECT_DIR$/venv/bin/easy_install" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/bin/easy_install-3.4" afterPath="$PROJECT_DIR$/venv/bin/easy_install-3.4" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/bin/pip" afterPath="$PROJECT_DIR$/venv/bin/pip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/bin/pip3" afterPath="$PROJECT_DIR$/venv/bin/pip3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/bin/pip3.4" afterPath="$PROJECT_DIR$/venv/bin/pip3.4" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/__main__.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/__main__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/basecommand.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/basecommand.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/baseparser.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/baseparser.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/cmdoptions.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/cmdoptions.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/commands/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/commands/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/commands/completion.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/commands/completion.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/commands/freeze.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/commands/freeze.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/commands/help.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/commands/help.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/commands/install.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/commands/install.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/commands/list.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/commands/list.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/commands/search.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/commands/search.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/commands/show.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/commands/show.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/commands/uninstall.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/commands/uninstall.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/commands/wheel.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/commands/wheel.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/download.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/download.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/exceptions.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/exceptions.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/index.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/index.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/locations.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/locations.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/pep425tags.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/pep425tags.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/status_codes.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/status_codes.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/vcs/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/vcs/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/vcs/bazaar.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/vcs/bazaar.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/vcs/git.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/vcs/git.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/vcs/mercurial.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/vcs/mercurial.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/vcs/subversion.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/vcs/subversion.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/wheel.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/pip/wheel.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/archive_util.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/archive_util.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/command/__init__.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/command/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/command/alias.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/command/alias.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/command/bdist_egg.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/command/bdist_egg.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/command/bdist_rpm.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/command/bdist_rpm.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/command/bdist_wininst.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/command/bdist_wininst.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/command/build_ext.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/command/build_ext.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/command/build_py.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/command/build_py.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/command/develop.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/command/develop.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/command/easy_install.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/command/easy_install.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/command/egg_info.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/command/egg_info.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/command/install.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/command/install.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/command/install_egg_info.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/command/install_egg_info.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/command/install_lib.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/command/install_lib.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/command/install_scripts.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/command/install_scripts.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/command/register.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/command/register.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/command/rotate.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/command/rotate.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/command/saveopts.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/command/saveopts.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/command/sdist.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/command/sdist.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/command/setopt.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/command/setopt.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/command/test.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/command/test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/command/upload_docs.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/command/upload_docs.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/compat.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/compat.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/depends.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/depends.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/dist.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/dist.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/extension.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/extension.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/package_index.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/package_index.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/py31compat.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/py31compat.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/sandbox.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/sandbox.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/ssl_support.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/ssl_support.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/version.py" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/setuptools/version.py" />
+    </list>
+    <ignored path="flask.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/flask$flask.coverage" NAME="flask Coverage Results" MODIFIED="1451758062560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="flask" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="app.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="61" column="8" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="8" />
+              <folding>
+                <element signature="e#23#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/js/test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/footer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.4830287">
+              <caret line="16" column="88" selection-start-line="16" selection-start-column="88" selection-end-line="16" selection-end-column="88" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/header.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.3333335">
+              <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app.py" />
+        <option value="$PROJECT_DIR$/static/js/test.js" />
+        <option value="$PROJECT_DIR$/templates/header.html" />
+        <option value="$PROJECT_DIR$/templates/footer.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="57" />
+    <option name="y" value="-4" />
+    <option name="width" value="1309" />
+    <option name="height" value="772" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Buildout</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flask" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flask" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flask" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flask" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flask" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flask" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flask" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.eslint.eslintPackage" value="" />
+  </component>
+  <component name="RunManager" selected="Python.flask">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="flask" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="flask" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="flask" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="flask" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="flask" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="flask" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="flask" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="flask" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="flask" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="flask" type="PythonConfigurationType" factoryName="Python" singleton="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="flask" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.flask" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb8f4881-0afb-492f-8102-d4763f8bebca" name="Default" comment="" />
+      <created>1451753531400</created>
+      <option name="number" value="Default" />
+      <updated>1451753531400</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="57" y="-4" width="1309" height="772" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12943962" sideWeight="0.4946565" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977098" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977098" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977098" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32924962" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13259669" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924962" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12943962" sideWeight="0.5053435" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#23#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="61" column="8" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="8" />
+          <folding>
+            <element signature="e#23#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.3333335">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4830287">
+          <caret line="16" column="88" selection-start-line="16" selection-start-column="88" selection-end-line="16" selection-end-column="88" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
